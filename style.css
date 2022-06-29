@@ -1,0 +1,68 @@
+.fa
+{
+    font-size: 20px !important;
+}
+.logo
+{
+    margin-left: 60px;
+}
+.navbar
+{
+    background-color:	firebrick;
+}
+.nav-link 
+{
+    color: white !important;
+}
+h2{
+    margin-top: 50px !important;
+    color: firebrick !important;
+    text-shadow: 2px 2px 5px firebrick;
+    margin-bottom: 50px !important;
+
+}
+.col
+{
+
+
+    color: firebrick !important;
+box-shadow: 2px 2px 5px gray;
+margin-right: 20px !important;
+margin-left: 20px !important;
+margin-right: 30px !important;
+display: flex;
+padding-right: 50px !important;
+}
+p
+{
+    padding-left: 50px !important;
+    padding-top: 50px !important;
+    font-weight: bold;
+
+}
+
+.service
+{
+padding-left: 20px;
+margin-top: 40px;
+
+}
+.footer{
+    background-color: firebrick;
+}
+.p
+{
+    padding-bottom: 30px;
+    color:white;
+}
+.col
+{
+    margin-bottom: 50PX;
+}
+#cont
+{
+box-shadow: none !important;
+}
+h5{
+    color:firebrick !important
+}
